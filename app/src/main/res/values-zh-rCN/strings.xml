@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">玩玩应用</string>
+    <string name="pleaceholder" >请输入你的文字</string>
+    <string name="button">按钮</string>
+    <string name="google_icon">谷歌</string>
+    <string name="number1">第一个数字</string>
+    <string name="number2">第二个数字</string>
+    <string name="result">结果</string>
+    <string name="password_pleaseholder">请输入密码</string>
+    <string name="dog">狗</string>
+    <string name="cat">猫</string>
+    <string name="cow">牛</string>
+    <string name="ranking">排名</string>
+    <string name="login_page">登录页</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="login_button">登录</string>
+    <string name="welcome_word">欢迎来到这个页面</string>
+    <string name="Zelda">塞尔达</string>
+    <string name="url">网址</string>
+    <string name="time">时间</string>
+    <string name="real_name">真实姓名</string>
+    <string name="score">得分</string>
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_email">电子邮件</string>
+</resources>
